@@ -4,4 +4,6 @@
 
 
 [Rofi](https://github.com/davatorium/rofi) <br />
-[Rofi theme + style](https://github.com/adi1090x/rofi) <br />
+[Rofi theme + style (gotham + text)](https://github.com/adi1090x/rofi) <br />
+i3-gaps <br />
+[Night tab](https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki?hl=en-GB) <br />
