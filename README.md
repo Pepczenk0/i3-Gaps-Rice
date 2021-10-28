@@ -3,5 +3,5 @@
 
 
 
-[Rofi](https://github.com/davatorium/rofi)
-[Rofi theme + style](https://github.com/adi1090x/rofi)
+[Rofi](https://github.com/davatorium/rofi)__
+[Rofi theme + style](https://github.com/adi1090x/rofi)__
