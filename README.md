@@ -13,9 +13,7 @@ Important links for my rice: <br />
 [Yaru themes](https://github.com/Jannomag/Yaru-Colors) <br />
 
 additional info: <br />
-Application themes/sys theme: Yaru-Grey-dark <br />
-icon theme: Yaru-grey <br />
-
+Themes: terminal -> Gogh azu system -> yaru grey icon theme -> yaru grey
 
 
 ![setup](setup.png)
