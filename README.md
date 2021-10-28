@@ -18,5 +18,5 @@ icon theme: Yaru-grey <br />
 
 
 
-![setup](setup.jpg)
+![setup](setup.png)
 
