@@ -1,12 +1,2 @@
- _ _____                                    _          
-(_)___ /        __ _  __ _ _ __  ___   _ __(_) ___ ___ 
-| | |_ \ _____ / _` |/ _` | '_ \/ __| | '__| |/ __/ _ \
-| |___) |_____| (_| | (_| | |_) \__ \ | |  | | (_|  __/
-|_|____/       \__, |\__,_| .__/|___/ |_|  |_|\___\___|
-               |___/      |_|                          
-
-
-
-
-The following repostiory has everything that my rice contains 
-<h1> test </h1>
+ 
+<h1>The following repostiory has everything that my rice contains</h1>
