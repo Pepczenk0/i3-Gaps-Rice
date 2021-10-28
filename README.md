@@ -18,5 +18,5 @@ icon theme: Yaru-grey <br />
 
 
 
-![GitHub Logo](setup.jpg)
+![setup](setup.jpg)
 
