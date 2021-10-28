@@ -19,4 +19,3 @@ icon theme: Yaru-grey <br />
 
 
 
-![test](~/Downloads/wallpaper.jpg?raw=true "Title")
