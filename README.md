@@ -15,3 +15,8 @@ Important links for my rice: <br />
 additional info: <br />
 Application themes/sys theme: Yaru-Grey-dark <br />
 icon theme: Yaru-grey <br />
+
+
+
+
+![](~/Downloads/wallpaper.jpg?raw=true "Title")
