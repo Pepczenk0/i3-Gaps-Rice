@@ -8,3 +8,5 @@
 [i3-gaps](https://github.com/Airblader/i3) <br />
 [Night tab](https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki?hl=en-GB) <br />
 [Terminal theme (Gogh + azu)](https://mayccoll.github.io/Gogh/)
+[Terminal prompt (starship)](https://starship.rs/)
+
